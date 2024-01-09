@@ -20,8 +20,8 @@
 
 报考资料: 只给991的资料, 其他的结合自己的水平, 自己搭配, youtube上很多.  
 资料网站: https://i-techx.github.io/iTechX/courses?course_code=CS101  
-下载链接: https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fi-TechX%2FiTechX%2Ftree%2Ffile-base%2Fcourses%2FCS101%2FCS101.01_Fall_2022
-考试大纲: https://sist.shanghaitech.edu.cn/2023/0913/c7340a1082114/page.htm
+下载链接: https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fi-TechX%2FiTechX%2Ftree%2Ffile-base%2Fcourses%2FCS101%2FCS101.01_Fall_2022  
+考试大纲: https://sist.shanghaitech.edu.cn/2023/0913/c7340a1082114/page.htm  
 分析: 他的资料本质上还是在github上挂载的, 至于怎么跳的github上, 这一定难不倒聪明的你, 下载链接只能下载2022年的, 如果你需要最新的, 请等赵老师这个光头更新.  考纲请选择085400专业学位-991, 请仔细查看考纲, 考纲这个网站下面就是真题链接, 如果你需要12-22的真题, 那等这个仓库更新或者自己去逐年的爬取.  
 请认真根据考纲查看PPT, 英文PPT, 如果之后我出了991的课程, 可根据更新情况抓取中文PPT. 认真完成作业与随堂测试, 因为那就是你的考试题型来源. 参考书: 算法导论(第三版), 想冲刺高分就写基础课后题, 不想就把主文举例练熟.  
 
